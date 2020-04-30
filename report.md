@@ -9,7 +9,7 @@
 В результате тестирования выявлены следующие дефекты:
 * [Credit Card Number Validator не распознает карты американских банков](https://github.com/Toanio/java-homework1.2/issues/1)
 * [Credit Card Number Validator не распознала длинный номер карты Visa](https://github.com/Toanio/java-homework1.2/issues/2)
-* <ссылка на описание дефекта>
+
 
 ## Описание процесса тестирования
 
